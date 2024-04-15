@@ -30,7 +30,7 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/social.svg"
+          src={"https://picsum.photos/200"}
           alt="Social Logo"
           width={500}
           height={350}
